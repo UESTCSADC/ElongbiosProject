@@ -1,0 +1,150 @@
+
+terrar.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+terrar-body1
+  rotate: false
+  xy: 867, 677
+  size: 863, 1351
+  orig: 2480, 3507
+  offset: 871, 1727
+  index: -1
+terrar-body1-break
+  rotate: false
+  xy: 2, 677
+  size: 863, 1351
+  orig: 2480, 3507
+  offset: 871, 1727
+  index: -1
+terrar-finger
+  rotate: false
+  xy: 1234, 2
+  size: 244, 191
+  orig: 2480, 3507
+  offset: 897, 1564
+  index: -1
+terrar-head1
+  rotate: false
+  xy: 1732, 1394
+  size: 302, 316
+  orig: 2480, 3507
+  offset: 698, 2575
+  index: -1
+terrar-head1-break
+  rotate: false
+  xy: 1732, 1712
+  size: 302, 316
+  orig: 2480, 3507
+  offset: 698, 2575
+  index: -1
+terrar-head2
+  rotate: true
+  xy: 1732, 1113
+  size: 279, 297
+  orig: 2480, 3507
+  offset: 714, 2430
+  index: -1
+terrar-lefthand
+  rotate: false
+  xy: 1234, 195
+  size: 768, 480
+  orig: 2480, 3507
+  offset: 858, 1674
+  index: -1
+terrar-rightfoot
+  rotate: true
+  xy: 1732, 685
+  size: 426, 264
+  orig: 2480, 3507
+  offset: 1557, 648
+  index: -1
+terrar-righthand
+  rotate: false
+  xy: 2, 10
+  size: 614, 665
+  orig: 2480, 3507
+  offset: 990, 1524
+  index: -1
+terrar-righthand-break
+  rotate: false
+  xy: 618, 10
+  size: 614, 665
+  orig: 2480, 3507
+  offset: 990, 1524
+  index: -1
+
+terrar2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+terrar-body2
+  rotate: true
+  xy: 1280, 915
+  size: 693, 632
+  orig: 2480, 3507
+  offset: 1046, 1569
+  index: -1
+terrar-body3
+  rotate: false
+  xy: 716, 1256
+  size: 548, 352
+  orig: 2480, 3507
+  offset: 1101, 1331
+  index: -1
+terrar-leftfoot
+  rotate: false
+  xy: 716, 406
+  size: 450, 255
+  orig: 2480, 3507
+  offset: 883, 597
+  index: -1
+terrar-leftleg
+  rotate: true
+  xy: 1280, 379
+  size: 534, 579
+  orig: 2480, 3507
+  offset: 956, 1040
+  index: -1
+terrar-leftleg-break
+  rotate: false
+  xy: 716, 663
+  size: 534, 591
+  orig: 2480, 3507
+  offset: 956, 1028
+  index: -1
+terrar-leftleg2
+  rotate: false
+  xy: 1626, 36
+  size: 327, 341
+  orig: 2480, 3507
+  offset: 985, 769
+  index: -1
+terrar-rightarm
+  rotate: false
+  xy: 2, 398
+  size: 712, 1210
+  orig: 2480, 3507
+  offset: 894, 1946
+  index: -1
+terrar-rightleg
+  rotate: true
+  xy: 2, 2
+  size: 394, 637
+  orig: 2480, 3507
+  offset: 1461, 1045
+  index: -1
+terrar-rightleg-break
+  rotate: true
+  xy: 641, 2
+  size: 394, 637
+  orig: 2480, 3507
+  offset: 1461, 1045
+  index: -1
+terrar-rightleg2
+  rotate: true
+  xy: 1280, 30
+  size: 347, 344
+  orig: 2480, 3507
+  offset: 1560, 802
+  index: -1

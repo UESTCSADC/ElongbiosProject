@@ -1,0 +1,54 @@
+
+Hopeness face.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body-toface
+  rotate: true
+  xy: 880, 1025
+  size: 742, 997
+  orig: 2480, 3507
+  offset: 700, 637
+  index: -1
+body-toface2
+  rotate: false
+  xy: 1527, 26
+  size: 412, 997
+  orig: 2480, 3507
+  offset: 1052, 637
+  index: -1
+body-toface3
+  rotate: false
+  xy: 1527, 26
+  size: 412, 997
+  orig: 2480, 3507
+  offset: 1052, 637
+  index: -1
+wing-toface-left1
+  rotate: false
+  xy: 880, 147
+  size: 645, 876
+  orig: 2480, 3507
+  offset: 1574, 885
+  index: -1
+wing-toface-left2
+  rotate: true
+  xy: 2, 2
+  size: 235, 420
+  orig: 2480, 3507
+  offset: 1080, 1430
+  index: -1
+wing-toface-right1
+  rotate: true
+  xy: 2, 239
+  size: 1528, 876
+  orig: 2480, 3507
+  offset: 532, 894
+  index: -1
+wing-toface-right2
+  rotate: true
+  xy: 424, 2
+  size: 235, 420
+  orig: 2480, 3507
+  offset: 1080, 1430
+  index: -1

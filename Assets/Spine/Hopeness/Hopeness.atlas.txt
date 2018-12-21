@@ -1,0 +1,26 @@
+
+Hopeness.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body-fly
+  rotate: false
+  xy: 2, 1013
+  size: 1716, 427
+  orig: 2480, 3507
+  offset: 276, 1957
+  index: -1
+Wing-fly1
+  rotate: true
+  xy: 876, 33
+  size: 978, 832
+  orig: 2480, 3507
+  offset: 962, 2004
+  index: -1
+Wing-fly2
+  rotate: false
+  xy: 2, 2
+  size: 872, 1009
+  orig: 2480, 3507
+  offset: 819, 2138
+  index: -1

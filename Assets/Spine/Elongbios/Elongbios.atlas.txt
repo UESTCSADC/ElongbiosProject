@@ -1,0 +1,130 @@
+
+Elongbios.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face-02-dead
+  rotate: false
+  xy: 2, 260
+  size: 1608, 1778
+  orig: 2480, 3507
+  offset: 794, 1190
+  index: -1
+leftarm
+  rotate: true
+  xy: 514, 72
+  size: 186, 416
+  orig: 2480, 3507
+  offset: 1367, 825
+  index: -1
+lefthand
+  rotate: false
+  xy: 1612, 222
+  size: 352, 238
+  orig: 2480, 3507
+  offset: 1189, 800
+  index: -1
+leftleg
+  rotate: true
+  xy: 1612, 915
+  size: 550, 295
+  orig: 2480, 3507
+  offset: 933, 22
+  index: -1
+rightarm
+  rotate: true
+  xy: 2, 2
+  size: 256, 510
+  orig: 2480, 3507
+  offset: 807, 713
+  index: -1
+righthand
+  rotate: true
+  xy: 1612, 462
+  size: 451, 379
+  orig: 2480, 3507
+  offset: 818, 666
+  index: -1
+rightleg
+  rotate: true
+  xy: 1612, 1467
+  size: 571, 295
+  orig: 2480, 3507
+  offset: 957, 32
+  index: -1
+
+Elongbios2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloth
+  rotate: true
+  xy: 2, 1005
+  size: 782, 1045
+  orig: 2480, 3507
+  offset: 788, 211
+  index: -1
+face-01-dead
+  rotate: true
+  xy: 2, 74
+  size: 929, 988
+  orig: 2480, 3507
+  offset: 794, 1113
+  index: -1
+face-02
+  rotate: true
+  xy: 1049, 933
+  size: 854, 911
+  orig: 2480, 3507
+  offset: 794, 1190
+  index: -1
+face-hited
+  rotate: true
+  xy: 992, 2
+  size: 929, 988
+  orig: 2480, 3507
+  offset: 794, 1113
+  index: -1
+
+Elongbios3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face
+  rotate: true
+  xy: 1057, 481
+  size: 1298, 988
+  orig: 2480, 3507
+  offset: 425, 1113
+  index: -1
+hair01
+  rotate: false
+  xy: 2, 2
+  size: 1053, 1777
+  orig: 2480, 3507
+  offset: 633, 573
+  index: -1
+
+Elongbios4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tutom
+  rotate: false
+  xy: 2, 2
+  size: 1280, 1532
+  orig: 2480, 3507
+  offset: 708, 308
+  index: -1
+
+Elongbios5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face-01
+  rotate: false
+  xy: 2, 2
+  size: 929, 988
+  orig: 2480, 3507
+  offset: 794, 1113
+  index: -1
